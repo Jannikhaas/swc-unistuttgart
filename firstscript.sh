@@ -1,1 +1,3 @@
 touch newFileCreatedFromScript.txt
+touch newFileCreatedFromScript.txt
+
